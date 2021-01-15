@@ -14,6 +14,7 @@ namespace AspNetCoreOnDocker
 {
     public class Startup
     {
+        // comment
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
